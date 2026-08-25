@@ -1,0 +1,2816 @@
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 100
+PC           : 0x3018
+IR           : 0xe009
+STATE_NUMBER : 0x0021
+
+BUS          : 0x3016
+MDR          : 0xe009
+MAR          : 0x3016
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 105
+PC           : 0x3018
+IR           : 0xe009
+STATE_NUMBER : 0x0023
+
+BUS          : 0x0000
+MDR          : 0x7202
+MAR          : 0x3016
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 106
+PC           : 0x3018
+IR           : 0x7202
+STATE_NUMBER : 0x0020
+
+BUS          : 0x7202
+MDR          : 0x7202
+MAR          : 0x3016
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 107
+PC           : 0x3018
+IR           : 0x7202
+STATE_NUMBER : 0x0007
+
+BUS          : 0x0000
+MDR          : 0x7202
+MAR          : 0x3016
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 113
+PC           : 0x3018
+IR           : 0x7202
+STATE_NUMBER : 0x0010
+
+BUS          : 0x0000
+MDR          : 0x00f0
+MAR          : 0x302c
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 114
+PC           : 0x3018
+IR           : 0x7202
+STATE_NUMBER : 0x0012
+
+BUS          : 0x0000
+MDR          : 0x00f0
+MAR          : 0x302c
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 115
+PC           : 0x301a
+IR           : 0x7202
+STATE_NUMBER : 0x0021
+
+BUS          : 0x3018
+MDR          : 0x00f0
+MAR          : 0x3018
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 120
+PC           : 0x301a
+IR           : 0x7202
+STATE_NUMBER : 0x0023
+
+BUS          : 0x0000
+MDR          : 0x2c3f
+MAR          : 0x3018
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 121
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x0020
+
+BUS          : 0x2c3f
+MDR          : 0x2c3f
+MAR          : 0x3018
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 122
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x0002
+
+BUS          : 0x0000
+MDR          : 0x2c3f
+MAR          : 0x3018
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 123
+PC           : 0x301a
+IR           : 0x2c3f
+STATE_NUMBER : 0x001d
+
+BUS          : 0x3027
+MDR          : 0x2c3f
+MAR          : 0x3027
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x3028
+1: 0x00f0
+2: 0x1ffe
+3: 0x0003
+4: 0xffff
+5: 0x0000
+6: 0x0000
+7: 0xffff
+
